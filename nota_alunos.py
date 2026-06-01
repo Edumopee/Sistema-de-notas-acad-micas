@@ -1,6 +1,6 @@
 
 # =====================================================================
-# ARQUIVO 1: main.py
+# ARQUIVO 1: nota_alunos.py
 # Propósito: Código-fonte principal da aplicação, contendo a estrutura
 #            de dados, motor lógico modularizado e interface CLI.
 # =====================================================================
